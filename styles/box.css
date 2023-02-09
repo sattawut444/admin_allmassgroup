@@ -1,0 +1,89 @@
+.box-nav{
+    height: 100;
+    background-color: aqua;
+}
+/*...............................................................*/
+.box-cover{
+    width: auto;
+    height: 100vmax;
+
+}
+.box-logo{
+    height: 25%;
+    border:solid 2px green;
+    background-color: black;
+}
+.box-photo-logo{
+    margin-right: 35%;
+    margin-left: 33%;
+    margin-top: 3%;
+    height: 80%;
+    border:solid 2px blue
+}
+.box-food-one{
+    float:left;
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 34.5%;
+    height: 16;
+    border:solid 2px black;
+}
+.box-food2{
+    margin-top: 2%;
+    height: 50%;
+    padding: 3%;
+}
+.audience{
+    float: left;
+    margin-top: 2.5%;
+}
+.box-food-two{
+    float:left;
+    margin-top: 5%;
+    margin-left: 1%;
+    width: 34.5%;
+    height: 16%;
+    border:solid 2px black;
+}
+.box-food3{
+    margin-top: 2%;
+    height: 50%;
+    padding: 3%;
+}
+.box-data-food-one{
+    float:left;
+    width: 120px;
+    padding: 6px;
+    margin-top: 10%;
+    border-radius: 12px;
+    font-family: Kanit;
+    background-color: rgba(83, 52, 24, 0.823);
+}
+.box-food-edit{
+    width: 30%;
+    height: 40px;
+    margin-top: 3%;
+    margin-left: 19%;
+    border-radius: 12px;
+    background-color: rgb(110, 110, 190);
+
+}
+.box-food-delete{
+    width: 30%;
+    height: 40px;
+    margin-left: 3%;
+    border-radius: 12px;
+    background-color: rgb(255, 117, 24);
+}
+.people{
+    float:left;
+    margin-left: 2px;
+    margin-top:3.5%;
+    margin-right: 53%;
+    font-family: Kanit;
+}
+.box-end{
+    margin-top: 65.5%;
+    height:400px;
+    background-color: black;
+}

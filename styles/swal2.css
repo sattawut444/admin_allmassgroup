@@ -1,0 +1,56 @@
+.colored-toast.swal2-icon-success {
+    margin-top: 3%;
+    background-color: #a5dc86 !important;
+  }
+.swal-name {
+    background-color: #a5dc86 !important;
+  }
+.icon-user{
+    margin-top: 10%;
+    margin: 0 auto;
+  }
+  /* Edit Bar ------------------------------*/
+.name_bar{
+    margin-top: 10px;
+    width: 60%;
+    margin-bottom: 10px;
+    padding-left: 70px;
+    font-family: Kanit;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+    background: url(../public/assets/images/icons/icon-user-35.png) no-repeat center
+      left 20px rgb(253, 253, 253) ;
+}
+.image_bar{
+  margin-top: 10px;
+  width: 60%;
+  margin-bottom: 10px;
+  padding-left: 70px;
+  font-family: Kanit;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+  background: url(../public/assets/images/icons/image.png) no-repeat center
+    left 20px rgb(253, 253, 253) ;
+}
+.detail_bar{
+  width: 60%;
+  margin-bottom: 10px;
+  font-family: Kanit;
+  padding: 2%;
+  padding-bottom: 3%;
+  box-shadow: 10px 10px 5px rgba(128, 128, 128, 0.179);
+}
+.people_view{
+  margin-top: 10px;
+  width: 60%;
+  margin-bottom: 10px;
+  /* padding-left: 70px; */
+  margin-left: 25%;
+  font-family: Kanit;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background: url(../public/assets/images/icons/view.png) no-repeat center
+    left 20px rgb(253, 253, 253) ;
+}
